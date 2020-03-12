@@ -1,0 +1,16 @@
+{
+    "name": "Subcategory",
+    "alias": "subcategory",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Subcategory\\Providers\\SubcategoryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
